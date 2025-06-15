@@ -1,0 +1,1204 @@
+[2025-04-11 11:19:31,673: INFO: main2]: Page layout set to wider configuration.
+[2025-04-11 11:19:31,674: INFO: main2]: Custom theme applied to Streamlit app.
+[2025-04-11 11:19:31,676: INFO: main2]: ID card type selected: PAN
+[2025-04-11 11:19:31,677: INFO: main2]: Header set for PAN Card registration.
+[2025-04-14 20:42:13,813: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 20:47:34,365: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 20:51:26,147: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 20:52:08,408: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:02:18,691: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:02:24,336: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:05:33,847: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:05:39,141: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:07:24,291: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:07:29,789: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:20:35,104: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:20:40,891: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:23:53,904: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:23:58,991: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:26:35,537: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:26:41,970: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:37:32,585: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:40:02,371: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:41:28,206: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:41:34,144: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:42:05,413: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:42:10,703: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:45:25,195: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:45:30,539: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:50:31,841: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:50:36,580: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:50:51,193: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:50:55,281: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:51:36,537: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:51:40,525: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:52:13,910: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 21:52:17,776: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 22:05:00,102: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 22:05:05,048: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-14 22:07:44,330: INFO: main]: Face image loaded.
+[2025-04-14 22:07:44,334: INFO: main]: ID Card image loaded.
+[2025-04-14 22:07:44,363: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-14 22:07:44,369: INFO: main]: ID card Info extracted.
+[2025-04-15 13:39:47,047: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-15 13:39:57,437: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-15 13:40:50,552: INFO: main]: Face image loaded.
+[2025-04-15 13:40:50,555: INFO: main]: ID Card image loaded.
+[2025-04-15 13:40:50,568: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-15 13:40:50,569: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-15 13:40:50,577: INFO: main]: ID card Info extracted.
+[2025-04-15 13:40:52,541: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-15 13:40:52,542: INFO: main]: Faces extracted and saved.
+[2025-04-15 13:40:52,542: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-15 13:40:52,542: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-15 13:40:52,544: INFO: main]: Face verification status: failed.
+[2025-04-15 13:40:52,544: INFO: main]: Face verification failed , Try again.
+[2025-04-15 13:44:43,700: INFO: main]: Face image loaded.
+[2025-04-15 13:44:43,767: INFO: main]: ID Card image loaded.
+[2025-04-15 13:44:43,772: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-15 13:44:43,778: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-15 13:44:43,786: INFO: main]: ID card Info extracted.
+[2025-04-15 13:44:45,077: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-15 13:44:45,080: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-15 13:44:45,080: INFO: main]: Faces extracted and saved.
+[2025-04-15 13:44:45,081: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-15 13:44:45,082: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-15 13:44:45,082: INFO: main]: Face verification status: failed.
+[2025-04-15 13:44:45,082: INFO: main]: Face verification failed , Try again.
+[2025-04-16 18:39:04,982: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 18:39:24,856: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 18:40:14,838: INFO: main]: Face image loaded.
+[2025-04-16 18:40:14,846: INFO: main]: ID Card image loaded.
+[2025-04-16 18:40:14,905: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 18:40:14,907: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 18:40:14,922: INFO: main]: ID card Info extracted.
+[2025-04-16 18:40:17,053: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 18:40:17,058: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 18:40:17,059: INFO: main]: Faces extracted and saved.
+[2025-04-16 18:40:17,060: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 18:40:17,060: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 18:40:17,061: INFO: main]: Face verification status: failed.
+[2025-04-16 18:40:17,061: INFO: main]: Face verification failed , Try again.
+[2025-04-16 19:18:28,449: INFO: main]: Face image loaded.
+[2025-04-16 19:18:28,517: INFO: main]: ID Card image loaded.
+[2025-04-16 19:18:28,523: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:18:28,524: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:18:28,531: INFO: main]: ID card Info extracted.
+[2025-04-16 19:18:29,819: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:18:29,822: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:18:29,824: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:18:29,824: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:18:29,824: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:18:29,825: INFO: main]: Face verification status: failed.
+[2025-04-16 19:18:29,825: INFO: main]: Face verification failed , Try again.
+[2025-04-16 19:19:33,377: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:19:33,403: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:20:00,778: INFO: main]: Face image loaded.
+[2025-04-16 19:20:00,779: INFO: main]: ID Card image loaded.
+[2025-04-16 19:20:00,784: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:20:00,785: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:20:00,791: INFO: main]: ID card Info extracted.
+[2025-04-16 19:20:02,095: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:20:02,099: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:20:02,100: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:20:02,100: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:20:02,101: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:20:04,416: INFO: main]: Face verification status: successful.
+[2025-04-16 19:20:04,418: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 19:20:04,486: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 19:20:09,777: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 19:20:09,778: INFO: ocrEngine]: An error occurred during text extraction: Invalid input type. Supporting format = string(file path or url), bytes, numpy array
+[2025-04-16 19:29:48,156: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:29:58,971: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:30:58,507: INFO: main]: Face image loaded.
+[2025-04-16 19:30:58,510: INFO: main]: ID Card image loaded.
+[2025-04-16 19:30:58,522: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:30:58,522: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:30:58,528: INFO: main]: ID card Info extracted.
+[2025-04-16 19:31:00,090: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:31:00,094: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:31:00,095: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:31:00,096: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:31:00,096: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:31:02,377: INFO: main]: Face verification status: successful.
+[2025-04-16 19:45:02,382: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:45:11,733: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:45:47,319: INFO: main]: Face image loaded.
+[2025-04-16 19:45:47,322: INFO: main]: ID Card image loaded.
+[2025-04-16 19:45:47,334: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:45:47,336: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:45:47,342: INFO: main]: ID card Info extracted.
+[2025-04-16 19:45:48,781: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:45:48,785: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:45:48,785: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:45:48,785: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:45:48,787: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:45:51,033: INFO: main]: Face verification status: successful.
+[2025-04-16 19:50:00,093: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:50:09,234: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:50:33,450: INFO: main]: Face image loaded.
+[2025-04-16 19:50:33,452: INFO: main]: ID Card image loaded.
+[2025-04-16 19:50:33,465: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:50:33,466: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:50:33,472: INFO: main]: ID card Info extracted.
+[2025-04-16 19:50:34,994: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:50:34,999: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:50:34,999: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:50:35,000: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:50:35,000: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:50:37,245: INFO: main]: Face verification status: successful.
+[2025-04-16 19:50:37,250: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 19:50:37,251: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 19:50:37,252: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 19:50:42,069: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 19:50:44,242: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 19:56:47,625: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:56:56,888: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 19:57:27,542: INFO: main]: Face image loaded.
+[2025-04-16 19:57:27,544: INFO: main]: ID Card image loaded.
+[2025-04-16 19:57:27,556: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 19:57:27,556: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 19:57:27,561: INFO: main]: ID card Info extracted.
+[2025-04-16 19:57:28,024: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:57:28,029: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:57:28,029: INFO: main]: Faces extracted and saved.
+[2025-04-16 19:57:28,030: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 19:57:28,031: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 19:57:30,348: INFO: main]: Face verification status: successful.
+[2025-04-16 19:57:30,349: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 19:57:30,354: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 19:57:30,355: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 19:57:30,357: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 19:57:35,160: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 19:57:37,371: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:04:09,697: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:04:09,708: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:04:09,767: INFO: main]: Face image loaded.
+[2025-04-16 20:04:09,769: INFO: main]: ID Card image loaded.
+[2025-04-16 20:04:09,773: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 20:04:09,774: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:04:09,783: INFO: main]: ID card Info extracted.
+[2025-04-16 20:04:11,137: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:11,142: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:11,143: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:04:11,144: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:11,144: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:04:13,304: INFO: main]: Face verification status: successful.
+[2025-04-16 20:04:13,305: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:04:13,311: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:04:13,311: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:04:13,313: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:04:18,088: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:04:19,940: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:04:50,095: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:04:50,106: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:04:50,161: INFO: main]: Face image loaded.
+[2025-04-16 20:04:50,163: INFO: main]: ID Card image loaded.
+[2025-04-16 20:04:50,166: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 20:04:50,167: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:04:50,171: INFO: main]: ID card Info extracted.
+[2025-04-16 20:04:51,538: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:51,542: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:51,542: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:04:51,542: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:04:51,543: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:04:53,621: INFO: main]: Face verification status: successful.
+[2025-04-16 20:04:53,621: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:04:53,626: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:04:53,626: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:04:53,628: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:04:57,747: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:04:59,754: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:05:40,564: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:05:49,979: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:06:30,699: INFO: main]: Face image loaded.
+[2025-04-16 20:06:30,700: INFO: main]: ID Card image loaded.
+[2025-04-16 20:06:30,709: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-16 20:06:30,709: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:06:30,714: INFO: main]: ID card Info extracted.
+[2025-04-16 20:06:32,186: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:06:32,189: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:06:32,189: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:06:32,190: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:06:32,190: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:06:34,243: INFO: main]: Face verification status: successful.
+[2025-04-16 20:06:34,243: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:06:34,247: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:06:34,247: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:06:34,248: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:06:37,940: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:06:40,066: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:08:30,985: INFO: main]: Face image loaded.
+[2025-04-16 20:08:30,987: INFO: preProcessor]: Failed to read image: UploadedFile(file_id='7674198e-9b44-4a35-b677-766092088d57', name='aadhar1.png', type='image/png', size=26697, _file_urls=file_id: "7674198e-9b44-4a35-b677-766092088d57"
+upload_url: "/_stcore/upload_file/672cd111-40ab-47d8-a964-39622abf2b0b/7674198e-9b44-4a35-b677-766092088d57"
+delete_url: "/_stcore/upload_file/672cd111-40ab-47d8-a964-39622abf2b0b/7674198e-9b44-4a35-b677-766092088d57"
+)
+[2025-04-16 20:08:30,987: INFO: preProcessor]: Error reading image: Failed to read image: UploadedFile(file_id='7674198e-9b44-4a35-b677-766092088d57', name='aadhar1.png', type='image/png', size=26697, _file_urls=file_id: "7674198e-9b44-4a35-b677-766092088d57"
+upload_url: "/_stcore/upload_file/672cd111-40ab-47d8-a964-39622abf2b0b/7674198e-9b44-4a35-b677-766092088d57"
+delete_url: "/_stcore/upload_file/672cd111-40ab-47d8-a964-39622abf2b0b/7674198e-9b44-4a35-b677-766092088d57"
+)
+[2025-04-16 20:08:30,988: INFO: main]: ID Card image loaded.
+[2025-04-16 20:09:38,422: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:09:49,467: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:10:21,611: INFO: main]: Face image loaded.
+[2025-04-16 20:10:21,624: INFO: main]: ID Card image loaded.
+[2025-04-16 20:10:21,636: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:10:21,638: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:10:21,646: INFO: main]: ID card Info extracted.
+[2025-04-16 20:10:22,212: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:10:22,220: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:10:22,220: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:10:22,221: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:10:22,221: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:10:24,750: INFO: main]: Face verification status: successful.
+[2025-04-16 20:10:24,751: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:10:24,760: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:10:24,760: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:10:24,762: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:10:29,533: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:10:32,165: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:13:43,045: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:13:53,905: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:14:54,786: INFO: main]: Face image loaded.
+[2025-04-16 20:14:54,798: INFO: main]: ID Card image loaded.
+[2025-04-16 20:14:54,811: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:14:54,812: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:14:54,824: INFO: main]: ID card Info extracted.
+[2025-04-16 20:14:55,333: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:14:55,340: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:14:55,341: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:14:55,341: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:14:55,342: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:14:57,873: INFO: main]: Face verification status: successful.
+[2025-04-16 20:14:57,874: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:14:57,882: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:14:57,883: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:14:57,884: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:15:02,671: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:15:05,392: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:21:26,132: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:21:36,121: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:22:18,025: INFO: main]: Face image loaded.
+[2025-04-16 20:22:18,030: INFO: main]: ID Card image loaded.
+[2025-04-16 20:22:18,037: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:22:18,037: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:22:18,041: INFO: main]: ID card Info extracted.
+[2025-04-16 20:22:18,286: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:22:18,288: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:22:18,290: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:22:18,290: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:22:18,290: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:22:19,335: INFO: main]: Face verification status: successful.
+[2025-04-16 20:22:19,335: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:22:19,338: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:22:19,339: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:22:19,339: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:22:21,529: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:22:23,057: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:24:27,439: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:24:31,391: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:24:45,930: INFO: main]: Face image loaded.
+[2025-04-16 20:24:45,935: INFO: main]: ID Card image loaded.
+[2025-04-16 20:24:45,940: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:24:45,941: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:24:45,945: INFO: main]: ID card Info extracted.
+[2025-04-16 20:24:46,189: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:24:46,192: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:24:46,192: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:24:46,192: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:24:46,193: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:24:47,279: INFO: main]: Face verification status: successful.
+[2025-04-16 20:24:47,279: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:24:47,283: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:24:47,283: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:24:47,284: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:24:49,428: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:24:50,942: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:29:27,409: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:29:31,327: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:29:57,213: INFO: main]: Face image loaded.
+[2025-04-16 20:29:57,217: INFO: main]: ID Card image loaded.
+[2025-04-16 20:29:57,223: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:29:57,223: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:29:57,226: INFO: main]: ID card Info extracted.
+[2025-04-16 20:29:57,466: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:29:57,469: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:29:57,469: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:29:57,470: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:29:57,470: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:29:58,522: INFO: main]: Face verification status: successful.
+[2025-04-16 20:29:58,523: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:29:58,526: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:29:58,526: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:29:58,527: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:30:00,609: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:30:02,185: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:32:03,830: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:32:07,724: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:32:25,057: INFO: main]: Face image loaded.
+[2025-04-16 20:32:25,062: INFO: main]: ID Card image loaded.
+[2025-04-16 20:32:25,069: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:32:25,070: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:32:25,073: INFO: main]: ID card Info extracted.
+[2025-04-16 20:32:25,299: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:32:25,302: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:32:25,303: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:32:25,303: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:32:25,303: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:32:26,375: INFO: main]: Face verification status: successful.
+[2025-04-16 20:32:26,375: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:32:26,377: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:32:26,378: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:32:26,378: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:32:28,647: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:32:30,203: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-16 20:33:17,255: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:33:21,002: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-16 20:33:36,983: INFO: main]: Face image loaded.
+[2025-04-16 20:33:36,988: INFO: main]: ID Card image loaded.
+[2025-04-16 20:33:36,993: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-16 20:33:36,994: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-16 20:33:36,998: INFO: main]: ID card Info extracted.
+[2025-04-16 20:33:37,242: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:33:37,245: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:33:37,246: INFO: main]: Faces extracted and saved.
+[2025-04-16 20:33:37,246: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-16 20:33:37,246: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-16 20:33:38,316: INFO: main]: Face verification status: successful.
+[2025-04-16 20:33:38,317: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:33:38,320: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-16 20:33:38,321: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-16 20:33:38,321: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-16 20:33:40,620: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-16 20:33:42,190: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-17 00:15:06,346: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-17 00:15:11,278: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-17 00:31:01,759: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-17 00:31:05,809: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-17 00:31:36,054: INFO: main]: Face image loaded.
+[2025-04-17 00:31:36,059: INFO: main]: ID Card image loaded.
+[2025-04-17 00:31:36,064: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-17 00:31:36,064: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-17 00:31:36,069: INFO: main]: ID card Info extracted.
+[2025-04-17 00:31:36,340: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-17 00:31:36,344: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-17 00:31:36,344: INFO: main]: Faces extracted and saved.
+[2025-04-17 00:31:36,345: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-17 00:31:36,345: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-17 00:31:37,408: INFO: main]: Face verification status: successful.
+[2025-04-17 00:31:37,409: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-17 00:31:37,412: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-17 00:31:37,413: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-17 00:31:37,414: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-17 00:31:39,730: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-17 00:31:41,412: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-17 00:31:42,084: INFO: main]: New user record inserted: XXXX XXXX XXXX
+[2025-04-18 15:16:58,969: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:17:17,418: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:17:39,957: INFO: main]: Face image loaded.
+[2025-04-18 15:17:39,967: INFO: main]: ID Card image loaded.
+[2025-04-18 15:17:39,984: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-18 15:17:39,986: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 15:17:39,998: INFO: main]: ID card Info extracted.
+[2025-04-18 15:17:42,090: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:17:42,096: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:17:42,096: INFO: main]: Faces extracted and saved.
+[2025-04-18 15:17:42,098: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:17:42,098: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 15:17:44,439: INFO: main]: Face verification status: successful.
+[2025-04-18 15:17:44,441: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:17:44,452: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:17:44,452: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 15:17:44,456: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 15:17:48,489: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 15:17:51,170: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 15:41:04,885: INFO: main]: Face image loaded.
+[2025-04-18 15:41:04,902: INFO: main]: ID Card image loaded.
+[2025-04-18 15:41:04,914: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 15:41:04,916: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 15:41:04,937: INFO: main]: ID card Info extracted.
+[2025-04-18 15:41:06,479: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:41:06,491: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:41:06,491: INFO: main]: Faces extracted and saved.
+[2025-04-18 15:41:06,492: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:41:06,492: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 15:41:10,110: INFO: main]: Face verification status: successful.
+[2025-04-18 15:41:10,112: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:41:10,121: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:41:10,123: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 15:41:10,125: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 15:41:14,432: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 15:41:21,962: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 15:45:58,469: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:46:07,480: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:46:23,100: INFO: main]: Face image loaded.
+[2025-04-18 15:46:23,117: INFO: main]: ID Card image loaded.
+[2025-04-18 15:46:23,139: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 15:46:23,140: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 15:46:23,152: INFO: main]: ID card Info extracted.
+[2025-04-18 15:46:24,824: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:46:24,833: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:46:24,834: INFO: main]: Faces extracted and saved.
+[2025-04-18 15:46:24,835: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:46:24,835: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 15:46:28,376: INFO: main]: Face verification status: successful.
+[2025-04-18 15:46:28,377: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:46:28,386: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:46:28,386: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 15:46:28,387: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 15:46:32,821: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 15:46:39,842: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 15:47:23,045: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:47:31,594: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:47:50,536: INFO: main]: Face image loaded.
+[2025-04-18 15:47:50,565: INFO: main]: ID Card image loaded.
+[2025-04-18 15:47:50,591: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 15:47:50,594: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 15:47:50,614: INFO: main]: ID card Info extracted.
+[2025-04-18 15:47:52,272: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:47:52,282: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:47:52,284: INFO: main]: Faces extracted and saved.
+[2025-04-18 15:47:52,285: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:47:52,286: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 15:47:55,872: INFO: main]: Face verification status: successful.
+[2025-04-18 15:47:55,873: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:47:55,881: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:47:55,883: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 15:47:55,888: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 15:47:59,872: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 15:48:07,045: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 15:52:41,876: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:52:50,897: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 15:53:43,471: INFO: main]: Face image loaded.
+[2025-04-18 15:53:43,483: INFO: main]: ID Card image loaded.
+[2025-04-18 15:53:43,497: INFO: preProcessor]: contours are found at, (0, 0, 609, 390)
+[2025-04-18 15:53:43,498: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 15:53:43,507: INFO: main]: ID card Info extracted.
+[2025-04-18 15:53:45,066: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:53:45,072: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:53:45,072: INFO: main]: Faces extracted and saved.
+[2025-04-18 15:53:45,073: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 15:53:45,073: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 15:53:47,294: INFO: main]: Face verification status: successful.
+[2025-04-18 15:53:47,295: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:53:47,301: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 15:53:47,301: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 15:53:47,302: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 15:53:51,302: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 15:53:53,971: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 16:04:19,087: INFO: main]: Face image loaded.
+[2025-04-18 16:04:19,089: INFO: main]: ID Card image loaded.
+[2025-04-18 16:04:19,093: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-18 16:04:19,093: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 16:04:19,101: INFO: main]: ID card Info extracted.
+[2025-04-18 16:04:20,424: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:04:20,429: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:04:20,430: INFO: main]: Faces extracted and saved.
+[2025-04-18 16:04:20,431: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:04:20,431: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 16:04:22,746: INFO: main]: Face verification status: successful.
+[2025-04-18 16:04:22,748: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:04:22,756: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:04:22,758: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 16:04:22,760: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 16:04:27,489: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 16:04:29,570: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 16:12:15,805: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 16:12:15,823: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 16:13:40,275: INFO: main]: Face image loaded.
+[2025-04-18 16:13:40,302: INFO: main]: ID Card image loaded.
+[2025-04-18 16:13:40,319: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 16:13:40,320: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 16:13:40,336: INFO: main]: ID card Info extracted.
+[2025-04-18 16:13:41,874: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:13:41,888: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:13:41,888: INFO: main]: Faces extracted and saved.
+[2025-04-18 16:13:41,889: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:13:41,889: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 16:13:45,422: INFO: main]: Face verification status: successful.
+[2025-04-18 16:13:45,423: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:13:45,440: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:13:45,440: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 16:13:45,442: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 16:13:49,947: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 16:13:57,512: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 16:53:38,910: INFO: main]: Face image loaded.
+[2025-04-18 16:53:38,920: INFO: main]: ID Card image loaded.
+[2025-04-18 16:53:38,927: INFO: preProcessor]: contours are found at, (0, 0, 684, 482)
+[2025-04-18 16:53:38,929: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 16:53:38,946: INFO: main]: ID card Info extracted.
+[2025-04-18 16:53:40,542: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:53:40,549: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:53:40,549: INFO: main]: Faces extracted and saved.
+[2025-04-18 16:53:40,550: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 16:53:40,551: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 16:53:43,187: INFO: main]: Face verification status: successful.
+[2025-04-18 16:53:43,188: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:53:43,196: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 16:53:43,196: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 16:53:43,198: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 16:53:47,542: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 16:53:51,014: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 16:59:49,924: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 16:59:49,933: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:00:05,861: INFO: main]: Face image loaded.
+[2025-04-18 17:00:05,864: INFO: main]: ID Card image loaded.
+[2025-04-18 17:00:05,870: INFO: preProcessor]: contours are found at, (0, 0, 684, 482)
+[2025-04-18 17:00:05,871: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:00:05,881: INFO: main]: ID card Info extracted.
+[2025-04-18 17:00:07,268: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:00:07,275: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:00:07,275: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:00:07,276: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:00:07,276: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:00:09,823: INFO: main]: Face verification status: successful.
+[2025-04-18 17:00:09,824: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:00:09,831: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:00:09,832: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:00:09,834: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:00:14,562: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:00:18,037: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:01:03,663: INFO: main]: Face image loaded.
+[2025-04-18 17:01:03,686: INFO: main]: ID Card image loaded.
+[2025-04-18 17:01:03,706: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:01:03,707: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:01:03,724: INFO: main]: ID card Info extracted.
+[2025-04-18 17:01:05,275: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:01:05,288: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:01:05,288: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:01:05,288: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:01:05,288: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:01:08,524: INFO: main]: Face verification status: successful.
+[2025-04-18 17:01:08,525: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:01:08,538: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:01:08,539: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:01:08,540: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:01:12,097: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:01:19,194: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:06:37,102: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:06:37,110: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:06:53,416: INFO: main]: Face image loaded.
+[2025-04-18 17:06:53,444: INFO: main]: ID Card image loaded.
+[2025-04-18 17:06:53,465: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:06:53,466: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:06:53,482: INFO: main]: ID card Info extracted.
+[2025-04-18 17:06:54,702: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:06:54,713: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:06:54,713: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:06:54,714: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:06:54,715: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:06:57,967: INFO: main]: Face verification status: successful.
+[2025-04-18 17:06:57,968: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:06:57,980: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:06:57,980: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:06:57,983: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:07:01,796: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:07:08,934: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:08:17,545: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:08:17,552: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:08:38,988: INFO: main]: Face image loaded.
+[2025-04-18 17:08:39,014: INFO: main]: ID Card image loaded.
+[2025-04-18 17:08:39,035: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:08:39,035: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:08:39,051: INFO: main]: ID card Info extracted.
+[2025-04-18 17:08:39,338: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:08:39,351: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:08:39,352: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:08:39,352: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:08:39,352: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:08:42,731: INFO: main]: Face verification status: successful.
+[2025-04-18 17:08:42,732: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:08:42,755: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:08:42,755: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:08:42,756: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:08:47,205: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:08:54,704: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:09:35,884: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:09:35,892: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:09:53,371: INFO: main]: Face image loaded.
+[2025-04-18 17:09:53,394: INFO: main]: ID Card image loaded.
+[2025-04-18 17:09:53,422: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:09:53,423: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:09:53,443: INFO: main]: ID card Info extracted.
+[2025-04-18 17:09:53,825: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:09:53,839: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:09:53,839: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:09:53,839: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:09:53,841: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:09:57,410: INFO: main]: Face verification status: successful.
+[2025-04-18 17:09:57,411: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:09:57,427: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:09:57,427: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:09:57,430: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:10:01,693: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:10:08,742: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:10:52,187: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:10:52,196: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:11:18,012: INFO: main]: Face image loaded.
+[2025-04-18 17:11:18,043: INFO: main]: ID Card image loaded.
+[2025-04-18 17:11:18,066: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:11:18,067: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:11:18,082: INFO: main]: ID card Info extracted.
+[2025-04-18 17:11:18,445: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:11:18,458: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:11:18,458: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:11:18,459: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:11:18,461: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:11:21,938: INFO: main]: Face verification status: successful.
+[2025-04-18 17:11:21,940: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:11:21,977: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:11:21,977: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:11:21,980: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:11:26,566: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:11:33,483: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:36:44,644: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:36:57,997: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:37:44,249: INFO: main]: Face image loaded.
+[2025-04-18 17:37:44,278: INFO: main]: ID Card image loaded.
+[2025-04-18 17:37:44,330: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:37:44,331: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:37:44,350: INFO: main]: ID card Info extracted.
+[2025-04-18 17:37:46,190: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:37:46,204: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:37:46,205: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:37:46,206: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:37:46,206: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:37:49,799: INFO: main]: Face verification status: successful.
+[2025-04-18 17:37:49,801: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:37:49,814: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:37:49,816: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:37:49,817: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:37:54,160: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:38:02,017: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:39:08,775: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:39:17,483: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:39:34,111: INFO: main]: Face image loaded.
+[2025-04-18 17:39:34,133: INFO: main]: ID Card image loaded.
+[2025-04-18 17:39:34,166: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:39:34,168: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:39:34,183: INFO: main]: ID card Info extracted.
+[2025-04-18 17:39:36,774: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:39:36,788: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:39:36,789: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:39:36,789: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:39:36,790: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:39:40,384: INFO: main]: Face verification status: successful.
+[2025-04-18 17:39:40,385: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:39:40,397: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:39:40,398: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:39:40,400: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:39:44,012: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:39:51,132: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:45:30,790: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:45:40,578: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:45:58,019: INFO: main]: Face image loaded.
+[2025-04-18 17:45:58,040: INFO: main]: ID Card image loaded.
+[2025-04-18 17:45:58,063: INFO: preProcessor]: contours are found at, (0, 0, 1280, 767)
+[2025-04-18 17:45:58,063: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:45:58,077: INFO: main]: ID card Info extracted.
+[2025-04-18 17:46:00,174: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:46:00,187: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:46:00,188: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:46:00,189: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:46:00,190: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:46:03,785: INFO: main]: Face verification status: successful.
+[2025-04-18 17:46:03,787: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:46:03,800: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:46:03,800: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:46:03,803: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:46:07,593: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:46:14,843: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:47:48,387: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:47:57,631: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 17:48:17,183: INFO: main]: Face image loaded.
+[2025-04-18 17:48:17,205: INFO: main]: ID Card image loaded.
+[2025-04-18 17:48:17,225: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 17:48:17,226: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:48:17,238: INFO: main]: ID card Info extracted.
+[2025-04-18 17:48:19,107: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:48:19,117: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:48:19,119: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:48:19,119: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:48:19,119: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:48:22,460: INFO: main]: Face verification status: successful.
+[2025-04-18 17:48:22,462: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:48:22,470: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:48:22,471: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:48:22,473: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:48:26,449: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:48:33,870: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:48:36,176: INFO: main]: New user record inserted: 9675 3161 0649
+[2025-04-18 17:49:27,824: INFO: main]: Face image loaded.
+[2025-04-18 17:49:27,860: INFO: main]: ID Card image loaded.
+[2025-04-18 17:49:27,889: INFO: preProcessor]: contours are found at, (5, 0, 1290, 825)
+[2025-04-18 17:49:27,891: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:49:27,906: INFO: main]: ID card Info extracted.
+[2025-04-18 17:49:28,169: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:49:28,180: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:49:28,182: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:49:28,182: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:49:28,182: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:49:31,845: INFO: main]: Face verification status: successful.
+[2025-04-18 17:49:31,846: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:49:31,856: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:49:31,857: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:49:31,858: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:49:36,039: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:49:43,515: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:50:47,707: INFO: main]: Face image loaded.
+[2025-04-18 17:50:47,715: INFO: main]: ID Card image loaded.
+[2025-04-18 17:50:47,722: INFO: preProcessor]: contours are found at, (0, 0, 684, 482)
+[2025-04-18 17:50:47,723: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:50:47,742: INFO: main]: ID card Info extracted.
+[2025-04-18 17:50:48,021: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:50:48,029: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:50:48,029: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:50:48,030: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:50:48,030: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:50:50,635: INFO: main]: Face verification status: successful.
+[2025-04-18 17:50:50,636: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:50:50,642: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:50:50,644: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:50:50,644: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:50:55,312: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:50:58,992: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 17:52:06,373: INFO: main]: Face image loaded.
+[2025-04-18 17:52:06,374: INFO: main]: ID Card image loaded.
+[2025-04-18 17:52:06,379: INFO: preProcessor]: contours are found at, (0, 2, 448, 263)
+[2025-04-18 17:52:06,379: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 17:52:06,388: INFO: main]: ID card Info extracted.
+[2025-04-18 17:52:06,510: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:52:06,516: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:52:06,517: INFO: main]: Faces extracted and saved.
+[2025-04-18 17:52:06,517: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 17:52:06,517: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 17:52:08,716: INFO: main]: Face verification status: successful.
+[2025-04-18 17:52:08,717: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:52:08,721: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 17:52:08,721: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 17:52:08,723: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 17:52:12,338: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 17:52:14,074: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 22:15:49,624: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:15:57,728: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:16:12,281: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:20:13,660: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:20:17,354: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:20:28,947: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:20:28,947: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 22:20:28,948: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 22:20:30,732: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 22:20:35,060: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 22:22:52,221: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:22:52,228: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:22:52,228: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 22:22:52,230: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 22:22:54,109: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 22:22:58,317: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 22:25:20,247: INFO: main]: Face image loaded.
+[2025-04-18 22:25:20,254: INFO: main]: ID Card image loaded.
+[2025-04-18 22:25:20,259: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 22:25:20,260: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 22:25:20,266: INFO: main]: ID card Info extracted.
+[2025-04-18 22:25:20,610: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:25:20,615: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:25:20,615: INFO: main]: Faces extracted and saved.
+[2025-04-18 22:25:20,615: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:25:20,616: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 22:25:22,171: INFO: main]: Face verification status: successful.
+[2025-04-18 22:25:22,171: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:25:22,176: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:25:22,176: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 22:25:22,177: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 22:25:24,226: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 22:25:28,382: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 22:26:39,063: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:26:39,066: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:27:05,291: INFO: main]: Face image loaded.
+[2025-04-18 22:27:05,298: INFO: main]: ID Card image loaded.
+[2025-04-18 22:27:05,302: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 22:27:05,302: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 22:27:05,308: INFO: main]: ID card Info extracted.
+[2025-04-18 22:27:05,428: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:27:05,434: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:27:05,434: INFO: main]: Faces extracted and saved.
+[2025-04-18 22:27:05,434: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:27:05,434: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 22:27:07,002: INFO: main]: Face verification status: successful.
+[2025-04-18 22:27:07,003: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:27:07,007: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:27:07,008: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 22:27:07,008: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 22:27:09,036: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 22:27:13,315: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 22:27:50,619: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:27:54,390: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 22:28:16,545: INFO: main]: Face image loaded.
+[2025-04-18 22:28:16,552: INFO: main]: ID Card image loaded.
+[2025-04-18 22:28:16,560: INFO: preProcessor]: contours are found at, (0, 0, 1200, 824)
+[2025-04-18 22:28:16,561: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-18 22:28:16,566: INFO: main]: ID card Info extracted.
+[2025-04-18 22:28:16,848: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:28:16,853: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:28:16,853: INFO: main]: Faces extracted and saved.
+[2025-04-18 22:28:16,855: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 22:28:16,855: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-18 22:28:18,455: INFO: main]: Face verification status: successful.
+[2025-04-18 22:28:18,456: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:28:18,461: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-18 22:28:18,461: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-18 22:28:18,462: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-18 22:28:20,392: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-18 22:28:24,598: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-18 23:31:17,144: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:31:17,158: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:31:37,420: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:31:37,435: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:34:34,949: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:34:34,959: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:35:11,400: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:35:27,978: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:35:41,855: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:35:41,873: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:38:26,866: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:38:26,874: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:38:27,010: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:38:27,023: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:40:01,036: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:40:09,462: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:40:25,338: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:40:25,354: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:50:39,381: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:50:47,842: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-18 23:51:05,944: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-18 23:51:05,987: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:00:37,074: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:00:45,936: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:01:00,001: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:01:00,030: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:14:26,075: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:14:35,468: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:14:51,713: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:14:51,730: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:40:06,274: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:40:15,158: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:40:29,371: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:40:29,384: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:42:25,050: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:42:33,490: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 00:42:47,560: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 00:42:47,574: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:26:01,233: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:26:06,447: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:26:16,747: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:26:16,757: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:26:57,681: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:27:01,344: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:27:09,318: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:27:09,324: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:30:14,102: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:30:14,108: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:30:23,069: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:30:23,075: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:30:43,780: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:30:43,783: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:30:43,807: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:30:43,811: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:31:00,134: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:31:00,136: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:33:09,185: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:33:09,189: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:38:56,727: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:39:04,275: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:39:30,238: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:39:30,244: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:40:22,001: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:40:22,005: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:40:26,373: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:40:26,378: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:42:03,572: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:42:03,576: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:42:03,602: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:42:03,607: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:42:16,536: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:42:16,541: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:42:52,663: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:42:52,666: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:43:00,809: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:43:00,815: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:43:51,674: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:43:51,677: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:43:51,699: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:43:51,706: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:45:54,415: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:45:54,418: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:45:54,441: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:45:54,446: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:46:15,732: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:46:15,735: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:50:09,099: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:50:09,103: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:50:09,123: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:50:09,125: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:51:28,573: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:51:28,577: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:51:28,595: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:51:28,598: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:53:02,034: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:53:02,038: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:53:02,054: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:53:02,057: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:54:39,665: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:54:39,668: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:54:39,687: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:54:39,689: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:56:05,584: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:56:05,588: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:56:05,607: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:56:05,610: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:57:34,284: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:57:34,288: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:57:34,306: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:57:34,309: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:34,254: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:58:34,257: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:58:34,277: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:34,279: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:38,165: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:38,167: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:53,589: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:58:53,592: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:58:53,612: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:58:53,614: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:59:02,788: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:59:02,791: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:59:02,809: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:59:02,812: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:59:17,458: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:59:17,462: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 12:59:17,479: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 12:59:17,480: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 13:02:39,287: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:02:39,291: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:03:05,844: INFO: preProcessor]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-04-19 13:03:05,845: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 13:07:55,536: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:07:59,265: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:09:14,692: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:09:14,695: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:11:45,966: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:11:45,969: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-19 13:12:58,816: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-19 13:13:55,451: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-19 13:13:55,456: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-21 17:01:19,455: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-21 17:01:31,993: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-21 17:01:52,948: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-21 17:01:52,973: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-21 17:02:17,066: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-21 17:02:17,071: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:46:09,330: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-22 22:46:19,081: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-22 22:48:36,044: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:48:36,056: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:51:05,266: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:51:05,274: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:51:40,674: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:51:40,678: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:55:51,011: INFO: main]: Face image loaded.
+[2025-04-22 22:55:51,013: INFO: main]: ID Card image loaded.
+[2025-04-22 22:55:51,043: INFO: preProcessor]: contours are found at, (0, 0, 600, 555)
+[2025-04-22 22:55:51,044: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-22 22:55:51,047: INFO: main]: ID card Info extracted.
+[2025-04-22 22:55:51,401: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:55:51,403: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:55:51,404: INFO: main]: Faces extracted and saved.
+[2025-04-22 22:55:51,404: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:55:51,404: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-22 22:55:52,555: INFO: main]: Face verification status: failed.
+[2025-04-22 22:55:52,555: INFO: main]: Face verification failed , Try again.
+[2025-04-22 22:56:47,357: INFO: main]: Face image loaded.
+[2025-04-22 22:56:47,376: INFO: main]: ID Card image loaded.
+[2025-04-22 22:56:47,382: INFO: preProcessor]: contours are found at, (14, 0, 1212, 826)
+[2025-04-22 22:56:47,382: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-22 22:56:47,387: INFO: main]: ID card Info extracted.
+[2025-04-22 22:56:47,513: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:56:47,515: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:56:47,516: INFO: main]: Faces extracted and saved.
+[2025-04-22 22:56:47,516: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 22:56:47,516: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-22 22:56:48,532: INFO: main]: Face verification status: successful.
+[2025-04-22 22:56:48,533: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-22 22:56:48,539: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-22 22:56:48,539: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-22 22:56:48,540: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-22 22:56:50,994: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-22 22:56:56,092: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-22 23:03:35,476: INFO: main]: Face image loaded.
+[2025-04-22 23:03:35,488: INFO: main]: ID Card image loaded.
+[2025-04-22 23:03:35,491: INFO: preProcessor]: contours are found at, (0, 0, 1115, 653)
+[2025-04-22 23:03:35,491: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-22 23:03:35,501: INFO: main]: ID card Info extracted.
+[2025-04-22 23:03:35,628: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:03:35,630: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:03:35,631: INFO: main]: Faces extracted and saved.
+[2025-04-22 23:03:35,631: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:03:35,631: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-22 23:03:36,631: INFO: main]: Face verification status: successful.
+[2025-04-22 23:03:36,632: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-22 23:03:36,636: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-22 23:03:36,637: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-22 23:03:36,638: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-22 23:03:38,784: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-22 23:03:43,563: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-22 23:03:44,178: INFO: main]: New user record inserted: 8135 8916 0930
+[2025-04-22 23:07:56,783: INFO: main]: Face image loaded.
+[2025-04-22 23:07:56,789: INFO: main]: ID Card image loaded.
+[2025-04-22 23:07:56,793: INFO: preProcessor]: contours are found at, (0, 0, 871, 511)
+[2025-04-22 23:07:56,793: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-22 23:07:56,797: INFO: main]: ID card Info extracted.
+[2025-04-22 23:07:56,884: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:07:56,887: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:07:56,887: INFO: main]: Faces extracted and saved.
+[2025-04-22 23:07:56,887: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:07:56,887: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-22 23:07:57,919: INFO: main]: Face verification status: successful.
+[2025-04-22 23:07:57,919: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-22 23:07:57,923: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-22 23:07:57,924: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-22 23:07:57,925: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-22 23:08:00,148: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-22 23:08:03,673: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-22 23:08:04,269: INFO: main]: New user record inserted: 2008 9464 5177
+[2025-04-22 23:09:43,422: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:09:43,427: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:12:01,830: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-22 23:12:01,834: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:33:10,332: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-23 00:33:14,226: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-23 00:37:30,723: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:37:30,731: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:37:43,103: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:37:43,107: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:37:52,328: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:37:52,331: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:38:00,789: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:38:00,793: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:39:38,443: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:39:38,446: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:40:46,140: INFO: main]: Face image loaded.
+[2025-04-23 00:40:46,153: INFO: main]: ID Card image loaded.
+[2025-04-23 00:40:46,160: INFO: preProcessor]: contours are found at, (14, 0, 1212, 826)
+[2025-04-23 00:40:46,162: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-23 00:40:46,171: INFO: main]: ID card Info extracted.
+[2025-04-23 00:40:46,472: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:40:46,475: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:40:46,475: INFO: main]: Faces extracted and saved.
+[2025-04-23 00:40:46,476: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:40:46,476: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-23 00:40:47,618: INFO: main]: Face verification status: successful.
+[2025-04-23 00:40:47,618: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 00:40:47,624: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 00:40:47,625: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 00:40:47,626: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 00:40:49,761: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 00:40:54,527: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 00:44:15,295: INFO: main]: Face image loaded.
+[2025-04-23 00:44:15,309: INFO: main]: ID Card image loaded.
+[2025-04-23 00:44:15,314: INFO: preProcessor]: contours are found at, (14, 0, 1212, 826)
+[2025-04-23 00:44:15,315: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-23 00:44:15,320: INFO: main]: ID card Info extracted.
+[2025-04-23 00:44:15,437: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:44:15,439: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:44:15,440: INFO: main]: Faces extracted and saved.
+[2025-04-23 00:44:15,440: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:44:15,440: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-23 00:44:16,508: INFO: main]: Face verification status: successful.
+[2025-04-23 00:44:16,508: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 00:44:16,514: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 00:44:16,514: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 00:44:16,515: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 00:44:18,801: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 00:44:23,705: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 00:44:24,313: INFO: main]: New user record inserted: 3016 7523 3916
+[2025-04-23 00:45:40,004: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:45:40,010: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:45:51,267: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:45:51,270: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:49:48,257: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:49:48,259: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:58:39,273: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 00:58:39,280: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:28:51,789: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:28:51,852: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:29:54,058: INFO: main]: Face image loaded.
+[2025-04-23 11:29:54,074: INFO: main]: ID Card image loaded.
+[2025-04-23 11:29:54,085: INFO: preProcessor]: contours are found at, (0, 0, 871, 511)
+[2025-04-23 11:29:54,087: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-23 11:29:54,101: INFO: main]: ID card Info extracted.
+[2025-04-23 11:29:54,384: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:29:54,389: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:29:54,389: INFO: main]: Faces extracted and saved.
+[2025-04-23 11:29:54,389: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:29:54,390: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-23 11:29:56,596: INFO: main]: Face verification status: successful.
+[2025-04-23 11:29:56,598: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:29:56,609: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:29:56,615: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 11:29:56,619: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 11:30:00,515: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 11:30:07,081: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 11:31:43,665: INFO: main]: Face image loaded.
+[2025-04-23 11:31:43,682: INFO: main]: ID Card image loaded.
+[2025-04-23 11:31:43,691: INFO: preProcessor]: contours are found at, (0, 0, 871, 511)
+[2025-04-23 11:31:43,693: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-23 11:31:43,714: INFO: main]: ID card Info extracted.
+[2025-04-23 11:31:45,114: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:31:45,118: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:31:45,118: INFO: main]: Faces extracted and saved.
+[2025-04-23 11:31:45,119: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:31:45,119: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-23 11:31:47,332: INFO: main]: Face verification status: successful.
+[2025-04-23 11:31:47,334: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:31:47,342: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:31:47,344: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 11:31:47,346: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 11:31:51,246: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 11:31:58,162: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 11:32:26,321: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:32:26,335: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:32:55,971: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:32:55,979: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 11:33:07,984: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:33:07,993: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 11:33:07,995: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 11:33:07,996: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 11:33:11,901: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 11:33:18,458: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 12:49:32,771: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-23 12:49:42,625: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-04-23 12:59:27,234: INFO: main]: Face image loaded.
+[2025-04-23 12:59:27,253: INFO: main]: ID Card image loaded.
+[2025-04-23 12:59:27,271: INFO: preProcessor]: contours are found at, (0, 0, 871, 511)
+[2025-04-23 12:59:27,273: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\contour_id.jpg
+[2025-04-23 12:59:27,284: INFO: main]: ID card Info extracted.
+[2025-04-23 12:59:28,739: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 12:59:28,743: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 12:59:28,743: INFO: main]: Faces extracted and saved.
+[2025-04-23 12:59:28,745: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 12:59:28,745: INFO: utils]: File is exis for C:\Users\samar\OneDrive\Desktop\AI_Project\E-KYC_Computer_Vision\data\02_intermediate_data\extracted_face.jpg
+[2025-04-23 12:59:30,839: INFO: main]: Face verification status: successful.
+[2025-04-23 12:59:30,839: INFO: utils]: File is exis for data\02_intermediate_data\id_image.jpg
+[2025-04-23 12:59:30,850: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\id_image.jpg
+[2025-04-23 12:59:30,850: INFO: ocrEngine]: Text Extraction Started...
+[2025-04-23 12:59:30,851: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-04-23 12:59:34,289: INFO: ocrEngine]: Inside Try-Catch...
+[2025-04-23 12:59:40,314: INFO: main]: Text Extracted and logging info parsed successfully
+[2025-04-23 13:02:46,366: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 13:02:46,371: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-04-23 13:04:08,108: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-04-23 13:04:08,112: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-15 20:44:50,672: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 20:44:59,127: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 20:47:02,020: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-06-15 20:47:02,032: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg

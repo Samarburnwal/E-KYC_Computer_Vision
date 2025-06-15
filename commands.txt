@@ -1,0 +1,2 @@
+For Stream lit file running
+    streamlit run temp.py
