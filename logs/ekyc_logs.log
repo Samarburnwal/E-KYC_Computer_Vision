@@ -1202,3 +1202,13 @@ delete_url: "/_stcore/upload_file/672cd111-40ab-47d8-a964-39622abf2b0b/7674198e-
 [2025-06-15 20:44:59,127: INFO: utils]: yaml  file: config.yaml loaded successfully
 [2025-06-15 20:47:02,020: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
 [2025-06-15 20:47:02,032: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-15 20:58:27,780: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 20:58:31,411: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 21:00:48,024: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 21:00:51,869: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 21:01:19,238: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-06-15 21:01:19,240: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-15 21:02:51,285: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 21:02:55,099: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-15 21:03:17,109: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2025-06-15 21:03:17,112: INFO: preProcessor]: Image saved successfully: data\02_intermediate_data\face_image.jpg
